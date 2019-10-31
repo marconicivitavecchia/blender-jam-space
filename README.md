@@ -21,7 +21,7 @@ We liked the moving semplicity of the spaceship with that maybe is approaching a
 We liked very much the shooting of this scene.  This rendering gained also the **special mention "Professinal Job"** for the right timing in delivery and the two flavours of the rendering.
 
 ### Mention: materials
-![thevoid2](delivery-lq/thevoid2.png)
+![ufoimage](delivery-lq/ufoimage.png)
 The only group that used an emitting light material and used it in a very reasonable way.
 
 ### Mention: team work
