@@ -14,7 +14,7 @@ We decided to give two prizes and a bunch of special mentions to praize the good
 
 ### Prize: modelling and lighting
 ![Foto nave bella](delivery-lq/fotonavebella.png)
-We liked the moving semplicity of the spaceship with that maybe is approaching a new solar system that lights the ship from the left. 
+We liked the moving semplicity of the spaceship, it seems that it is approaching a new shining solar system. 
 
 ### Prize: composition
 ![imagineandrealaurovaleriopiferi](delivery-lq/imagineandrealaurovaleriopiferi.png)
@@ -24,13 +24,9 @@ We liked very much the shooting of this scene.  This rendering gained also the *
 ![ufoimage](delivery-lq/ufoimage.png)
 The only group that used an emitting light material and used it in a very reasonable way.
 
-### Mention: team work
-
-We noticed the good team work during the jam. Collaboration is of paramount importance in delivery a good product!
-
-### Mention: We like this too
+### Mention: black and white
 ![stazione spaziale lunare francesco bevacqua](delivery-lq/stazionespazialelunarefrancescobevacqua.png)
-We cannot find the name for this mention, but we want to point out this good work :)
+We liked the choice to make a spot light with a b/w rendering.
 
 
 ## Showcase
