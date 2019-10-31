@@ -13,15 +13,15 @@ We decided to give two prizes and a bunch of special mentions to praize the good
 
 
 ### Prize: modelling and lighting
-![Foto nave bella](delivery/fotonavebella.png)
+![Foto nave bella](delivery-lq/fotonavebella.png)
 We liked the moving semplicity of the spaceship with that maybe is approaching a new solar system that lights the ship from the left. 
 
 ### Prize: composition
-![imagineandrealaurovaleriopiferi](delivery/imagineandrealaurovaleriopiferi.png)
+![imagineandrealaurovaleriopiferi](delivery-lq/imagineandrealaurovaleriopiferi.png)
 We liked very much the shooting of this scene.  This rendering gained also the **special mention "Professinal Job"** for the right timing in delivery and the two flavours of the rendering.
 
 ### Mention: materials
-![thevoid2](delivery/thevoid2.png)
+![thevoid2](delivery-lq/thevoid2.png)
 The only group that used an emitting light material and used it in a very reasonable way.
 
 ### Mention: team work
@@ -29,7 +29,7 @@ The only group that used an emitting light material and used it in a very reason
 We noticed the good team work during the jam. Collaboration is of paramount importance in delivery a good product!
 
 ### Mention: We like this too
-![stazione spaziale lunare francesco bevacqua](delivery/stazionespazialelunarefrancescobevacqua.png)
+![stazione spaziale lunare francesco bevacqua](delivery-lq/stazionespazialelunarefrancescobevacqua.png)
 We cannot find the name for this mention, but we want to point out this good work :)
 
 
@@ -37,37 +37,37 @@ We cannot find the name for this mention, but we want to point out this good wor
 All the works were really good, as you can verify in this full showcase!
 
 ### AFK
-![AFK](delivery/afk.png)
+![AFK](delivery-lq/afk.png)
 
 ### Foto nave bella (group name?)
-![Foto nave bella](delivery/fotonavebella.png)
+![Foto nave bella](delivery-lq/fotonavebella.png)
 
 ### Lauro & Piferi
-![imagineandrealaurovaleriopiferi](delivery/imagineandrealaurovaleriopiferi.png)
+![imagineandrealaurovaleriopiferi](delivery-lq/imagineandrealaurovaleriopiferi.png)
 
 ### Magici 12
-![magici_12](delivery/magici_12.png)
+![magici_12](delivery-lq/magici_12.png)
 
 ### Sistema solare (group name?)
-![Sistema solare](delivery/sistemasolare.png)
+![Sistema solare](delivery-lq/sistemasolare.png)
 
 ### Space squad
-![Space squad](delivery/spacesquad.png)
+![Space squad](delivery-lq/spacesquad.png)
 
 ### Space jumper
-![spacejumper](delivery/spacejumper.png)
+![spacejumper](delivery-lq/spacejumper.png)
 
 ### Francesco Bevacqua
-![stazione spaziale lunare francesco bevacqua](delivery/stazionespazialelunarefrancescobevacqua.png)
+![stazione spaziale lunare francesco bevacqua](delivery-lq/stazionespazialelunarefrancescobevacqua.png)
 
 ### Space jumper
-![spacejumper](delivery/spacejumper.png)
+![spacejumper](delivery-lq/spacejumper.png)
 
 ### The Void
-![thevoid2](delivery/thevoid2.png)
+![thevoid2](delivery-lq/thevoid2.png)
 
 ### UFO
-![ufoimage](delivery/ufoimage.png)
+![ufoimage](delivery-lq/ufoimage.png)
 
 
 
