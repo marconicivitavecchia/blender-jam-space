@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Blender Jam
 
-You can use the [editor on GitHub](https://github.com/marconicivitavecchia/blender-jam-space/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+October 29, 2019, IIS G. Marconi Civitavecchia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the course of 3D Modeling and Blender, we had a short jam session where participants have to work together in groups in order to create a rendering of a scene. The theme was... Space!
 
-### Markdown
+At the end of the session, a jury met to evaluate the works.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Results
+We were astonished about the really 
 
-```markdown
-Syntax highlighted code block
+work that groups made in the short time of the jam and after only few lessons about Blender. So, congratulations to all, really, we are proud of all you.
 
-# Header 1
-## Header 2
-### Header 3
+We decided to give two prizes and a bunch of special mentions to praize the good work that a team did in a specific field. However, in this page are showcased all the works to show that all the other works were worthy. Let's start!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Prize: modelling and lighting
 
-**Bold** and _Italic_ and `Code` text
+We liked the moving semplicity of the spaceship with that maybe is approaching a new solar system that lights the ship from the left. 
 
-[Link](url) and ![Image](src)
-```
+### Prize: composition
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We liked very much the shooting of this scene.  This rendering gained also the **special mention "Professinal Job"** for the right timing in delivery and the two flavours of the rendering.
 
-### Jekyll Themes
+### Mention: materials
+The only group that used an emitting light material and used it in a very reasonable way.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marconicivitavecchia/blender-jam-space/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Mention: team work
 
-### Support or Contact
+We noticed the good team work during the jam. Collaboration is of paramount importance in delivery a good product!
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mention: We like this too
+
+We cannot find the name for this mention, but we want to point out this good work :)
+
+
+## Showcase
+All the works were really good, as you can verify in this full showcase!
