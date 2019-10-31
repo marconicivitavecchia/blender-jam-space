@@ -38,16 +38,41 @@ We cannot find the name for this mention, but we want to point out this good wor
 All the works were really good, as you can verify in this full showcase!
 
 ### AFK
-![AFK](delivery/AFK.png)
+![AFK](delivery/afk.png)
 
 ### Foto nave bella (group name?)
-![Foto nave bella](delivery/foto nave bella.png)
+![Foto nave bella](delivery/fotonavebella.png)
 
 ### Lauro & Piferi
 ![imagineandrealaurovaleriopiferi](delivery/imagineandrealaurovaleriopiferi.png)
 
 ### Magici 12
 ![magici_12](delivery/magici_12.png)
+
+### Sistema solare (group name?)
+![Sistema solare](delivery/sistemasolare.png)
+
+### Space squad
+![Space squad](delivery/spacesquad.png)
+
+### Space jumper
+![spacejumper](delivery/spacejumper.png)
+
+### Francesco Bevacqua
+![stazione spaziale lunare francesco bevacqua](delivery/stazionespazialelunarefrancescobevacqua.png)
+
+### Space jumper
+![spacejumper](delivery/spacejumper.png)
+
+### The Void
+![thevoid2](delivery/thevoid2.png)
+
+### UFO
+![ufoimage](delivery/ufoimage.png)
+
+
+
+
 
 
 
