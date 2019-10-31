@@ -36,3 +36,18 @@ We cannot find the name for this mention, but we want to point out this good wor
 
 ## Showcase
 All the works were really good, as you can verify in this full showcase!
+
+### AFK
+![AFK](delivery/AFK.png)
+
+### Foto nave bella (group name?)
+![Foto nave bella](delivery/foto nave bella.png)
+
+### Lauro & Piferi
+![imagineandrealaurovaleriopiferi](delivery/imagineandrealaurovaleriopiferi.png)
+
+### Magici 12
+![magici_12](delivery/magici_12.png)
+
+
+
