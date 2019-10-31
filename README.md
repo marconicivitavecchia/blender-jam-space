@@ -56,9 +56,6 @@ All the works were really good, as you can verify in this full showcase!
 ### Francesco Bevacqua
 ![stazione spaziale lunare francesco bevacqua](delivery-lq/stazionespazialelunarefrancescobevacqua.png)
 
-### Space jumper
-![spacejumper](delivery-lq/spacejumper.png)
-
 ### The Void
 ![thevoid2](delivery-lq/thevoid2.png)
 
