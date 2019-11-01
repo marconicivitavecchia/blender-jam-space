@@ -20,6 +20,11 @@ We liked the moving semplicity of the spaceship, it seems that it is approaching
 ![imagineandrealaurovaleriopiferi](delivery-lq/imagineandrealaurovaleriopiferi.png)
 We liked very much the shooting of this scene.  This rendering gained also the **special mention "Professinal Job"** for the right timing in delivery and the two flavours of the rendering.
 
+### Mention: team work
+
+![AFK](delivery-lq/afk.png)
+We noticed the good team work during the jam. Collaboration is of paramount importance in delivery a good product!
+
 ### Mention: materials
 ![ufoimage](delivery-lq/ufoimage.png)
 The only group that used an emitting light material and used it in a very reasonable way.
